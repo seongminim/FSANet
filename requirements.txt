@@ -1,4 +1,4 @@
-name: mdln
+name: requirements
 channels:
   - pytorch
   - conda-forge
