@@ -10,12 +10,13 @@ Low-light images often exhibit reduced brightness, weak contrast, and color dist
     2. run test.py
 # Citation
 if you find this project useful, please cite our paper:
+https://doi.org/10.3390/electronics13193883
 
     @article{FSANet2024,
       title={Low-Light Image Enhancement Network Using Informative Feature Stretch and Attention},
       author={Sung Min Chun, Jun Young Park, Il Kyu Eom},
       journal={Electronics},
-      year={2024}
+      year={2024}      
     }
 # Contact
 If you have any questions, please contact smin5874@pusan.ac.kr.
